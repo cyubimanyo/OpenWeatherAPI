@@ -23,7 +23,7 @@ API Automation ini mencakup 4 Test Cases :
    - Memverifikasi bagaimana API merespons ketika nilai lintang dan bujur yang salah atau di luar batas diberikan.
 
 4. **Rate Limit Exceeded**  
-   - Mensimulasikan **1100 permintaan** ke API untuk menguji batasan kecepatan (rate limit) dan memastikan API merespons dengan benar ketika batasnya terlampaui.
+   - Mensimulasikan **1100 permintaan** ke API untuk menguji batasan kecepatan (rate limit) dan memastikan API merespons dengan benar ketika batasnya terlampaui. (Expected Result : Status Code 429)
 
 ## Cara Memodifikasi Test Cases
 
