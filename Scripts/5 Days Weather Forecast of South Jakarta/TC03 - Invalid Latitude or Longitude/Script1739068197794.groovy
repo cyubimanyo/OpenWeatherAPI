@@ -19,6 +19,7 @@ import org.openqa.selenium.Keys as Keys
 import org.apache.poi.ss.usermodel.*
 import org.apache.poi.xssf.usermodel.XSSFWorkbook
 import groovy.json.JsonOutput
+import groovy.json.JsonSlurper
 
 // Data : South Jakarta
 // Latitude : 6.232970
