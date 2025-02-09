@@ -51,7 +51,7 @@ def readExcelData(filePath) {
 
 	FileInputStream file = new FileInputStream(new File(filePath))
 	Workbook workbook = new XSSFWorkbook(file)
-	Sheet sheet = workbook.getSheet("Location")
+	Sheet sheet = workbook.getSheet("Valid Location")
 
 	Row row = sheet.getRow(1)
 
