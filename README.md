@@ -1,6 +1,6 @@
 # API Automation - Katalon Studio - OpenWeather API
 
-Repositori ini berisi API Automation yang dikembangkan menggunakan **Katalon Studio**. API Automation ini melakukan pengujian yang terkait dengan informasi cuaca dan polusi udara, serta dirancang untuk berinteraksi dengan API nyata menggunakan data yang disediakan dalam file Excel.
+Repositori ini berisi API Automation yang dikembangkan menggunakan **Katalon Studio**. API Automation ini melakukan pengujian yang terkait dengan informasi cuaca dan polusi udara dari opensource OpenWeather API, serta dirancang untuk berinteraksi dengan API nyata menggunakan data yang disediakan dalam file Excel.
 
 ## Fitur
 - Automation script ini menggunakan **data binding Excel**, di mana data input API diambil dari file `Data Files/OpenWeather.xlsx`.
