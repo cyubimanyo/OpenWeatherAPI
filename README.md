@@ -50,4 +50,4 @@ Laporan **PDF** terbaru yang dihasilkan dari uji automasi ini meliputi:
 ## Cara Menjalankan API Automation
 Clone repositori ini ke mesin lokal kamu:
    ```bash
-   git clone https://github.com/username-anda/nama-repositori.git
+   [git clone https://github.com/username-anda/nama-repositori.git](https://github.com/cyubimanyo/OpenWeatherAPI.git)
