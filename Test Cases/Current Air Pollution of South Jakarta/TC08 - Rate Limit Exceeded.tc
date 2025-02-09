@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC08 - Rate Limit Exceeded</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>914d3565-5f22-4c5a-bbb8-2c79aec6252a</testCaseGuid>
+</TestCaseEntity>

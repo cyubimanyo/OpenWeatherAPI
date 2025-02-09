@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01 - Valid API Response (200 OK)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5a0c2e86-2b51-4030-ba48-020be47be95b</testCaseGuid>
+</TestCaseEntity>

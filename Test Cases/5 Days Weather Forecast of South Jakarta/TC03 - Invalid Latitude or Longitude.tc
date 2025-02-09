@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC03 - Invalid Latitude or Longitude</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a80b3907-ce4b-40a8-a3c4-c12f580b96e4</testCaseGuid>
+</TestCaseEntity>
